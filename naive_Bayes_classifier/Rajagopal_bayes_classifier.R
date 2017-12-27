@@ -3,7 +3,7 @@
 library(dplyr)
 ##############################
 list.files()
-setwd("/Users/Advait/Desktop/New_School/Fall17/Bayes_ML/HW_1/EECS6720-hw1-data")
+
 #54 should be the number of words and X is called a 54 dimensional vector.
 #load the train feature matrix
 X_train <- read.csv("X_train.csv",
